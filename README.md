@@ -1,4 +1,4 @@
-#SISTEMA DE CONTROLE OLÍMPICO (JAPÃO 2021)
+# SISTEMA DE CONTROLE OLÍMPICO (JAPÃO 2021)
 
 O sistema de Controle Olímpico é um sistema disponível na Web administrado pelo Comitê Olímpico Internacional (COI). Inicialmente, o COI define os esportes que farão parte das Olimpíadas. Cada esporte (ex: natação, atletismo, ginástica, etc.) possui várias modalidades (ex: corridas 100 m, revezamento com barreiras, maratona, etc.). Cada esporte tem um nome e gênero (masculino ou feminino). Cada modalidade tem um nome e indicador se é uma modalidade individual ou coletiva (Ex: Esporte natação masculina com modalidade de equipe revezamento 4X100 Medley, Esporte tênis feminino modalidade de duplas).
 
